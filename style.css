@@ -1,0 +1,22 @@
+body{
+	color:green;
+	font-family:arial;
+	background-color:orange;
+}
+
+p{
+	text-align:left;
+}
+
+h1{
+	text-align:center;
+  	color:yellow;
+}
+
+.first {
+	text-align:left;
+}
+
+h2{
+	color:yellow;
+}
