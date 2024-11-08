@@ -1,7 +1,7 @@
 body{
 	color:green;
 	font-family:arial;
-	background-color:orange;
+	background-color:yellow;
 }
 
 p{
@@ -10,7 +10,7 @@ p{
 
 h1{
 	text-align:center;
-  	color:yellow;
+  	color:blue;
 }
 
 .first {
@@ -18,5 +18,16 @@ h1{
 }
 
 h2{
-	color:yellow;
+	color:blue;
+}
+
+table,th,td {border:1px solid green;
+width:50%;
+}
+nav{
+  text-align:center;
+  justify-content:center;
+  padding:0;
+  margin:0
+  font-weigt:bold;
 }
